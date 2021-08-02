@@ -29,7 +29,7 @@ class Cart extends Component {
                   {/* Product action */}
                   <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
                     <div className="text-center">
-                      <a className="btn btn-outline-dark mt-auto" href="#">
+                      <a className="btn btn-outline-dark mt-auto" href="/">
                         View options
                       </a>
                     </div>
@@ -72,7 +72,7 @@ class Cart extends Component {
                   {/* Product action */}
                   <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
                     <div className="text-center">
-                      <button className="btn btn-outline-dark mt-auto" href="#">
+                      <button className="btn btn-outline-dark mt-auto" href="/">
                         Add to cart
                       </button>
                     </div>
@@ -107,7 +107,7 @@ class Cart extends Component {
                   {/* Product action */}
                   <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
                     <div className="text-center">
-                      <a className="btn btn-outline-dark mt-auto" href="#">
+                      <a className="btn btn-outline-dark mt-auto" href="/">
                         Add to cart
                       </a>
                     </div>
@@ -143,7 +143,7 @@ class Cart extends Component {
                   {/* Product action */}
                   <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
                     <div className="text-center">
-                      <a className="btn btn-outline-dark mt-auto" href="#">
+                      <a className="btn btn-outline-dark mt-auto" href="/">
                         Add to cart
                       </a>
                     </div>
@@ -178,7 +178,7 @@ class Cart extends Component {
                   {/* Product action */}
                   <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
                     <div className="text-center">
-                      <a className="btn btn-outline-dark mt-auto" href="#">
+                      <a className="btn btn-outline-dark mt-auto" href="/">
                         Add to cart
                       </a>
                     </div>
@@ -206,7 +206,7 @@ class Cart extends Component {
                   {/* Product action */}
                   <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
                     <div className="text-center">
-                      <a className="btn btn-outline-dark mt-auto" href="#">
+                      <a className="btn btn-outline-dark mt-auto" href="/">
                         View options
                       </a>
                     </div>
@@ -249,7 +249,7 @@ class Cart extends Component {
                   {/* Product action */}
                   <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
                     <div className="text-center">
-                      <a className="btn btn-outline-dark mt-auto" href="#">
+                      <a className="btn btn-outline-dark mt-auto" href="/">
                         Add to cart
                       </a>
                     </div>
@@ -285,7 +285,7 @@ class Cart extends Component {
                   {/* Product actions */}
                   <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
                     <div className="text-center">
-                      <a className="btn btn-outline-dark mt-auto" href="#">
+                      <a className="btn btn-outline-dark mt-auto" href="/">
                         Add to cart
                       </a>
                     </div>

@@ -1,6 +1,6 @@
 import React from "react";
 import Headersection from "./Headersection";
-import Cart from "./Cart";
+import Cart1 from "./Cart1";
 
 import Footer from "./Footer";
 
@@ -8,7 +8,7 @@ function HomeSection() {
   return (
     <div>
       <Headersection />
-      <Cart />
+      <Cart1 />
       <Footer />
     </div>
   );
